@@ -14,6 +14,8 @@ node proxy.js
 
 ## Dynamic Creation and Deletion of Proxy Services by API
 
+### Only Support proxy http & websocket
+
 ### Add Proxy 
 
 from local random port -> remote ip:port
